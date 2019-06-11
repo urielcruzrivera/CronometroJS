@@ -1,7 +1,7 @@
 let cronometro=contador_segundos = contador_minutos = contador_centesimas = contador_horas = 0;
 
 function detener() {
-	//ESTA FALLANDO
+	//ESTA FALLANDO --Comentario Modificado
 	clearInterval(cronometro);
 }
 
